@@ -1,0 +1,5 @@
+{
+    "require": {
+        "tg/tgwebvalid": "4.2.4"
+    }
+}
