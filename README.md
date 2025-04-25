@@ -1,0 +1,2 @@
+# StarredNFT
+Репозиторий проекта StarredNFT
